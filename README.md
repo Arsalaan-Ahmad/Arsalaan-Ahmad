@@ -26,6 +26,6 @@ Here are some ideas to get you started:
   </p>
 
 <p align="center">
-  <a href-"https://www.linkedin.com/in/arsalaan-ahmad-6b69a4239" target-"_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" height="30" width="30"></a>
+  <a href="https://www.linkedin.com/in/arsalaan-ahmad-6b69a4239" target-"_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" height="30" width="30"></a>
 </p>
   
