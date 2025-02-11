@@ -26,6 +26,6 @@ Here are some ideas to get you started:
   </p>
 
 <p aligh="center">
-  <a href-"" target-"_blank"><img src-"https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
+  <a href-"" target-"_blank"><img src-"[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg)" height="30" width="30"></a>
 </p>
   
