@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about <strong>Python, R, Machine learning, neural computing, Computer Vision, Digital signal processing and Statistics</strong>
 - 📫 How to reach me:<a href="https://www.linkedin.com/in/arsalaan-ahmad-6b69a4239" target="_blank"> Arsalaan Ahmad</a>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Arsalaan-Ahmad&show_icons-true" alt="Arsalaan-Ahmad"
-  </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arsalaan-ahmad-6b69a4239" target-"_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" height="30" width="30"></a>
